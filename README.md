@@ -3,9 +3,9 @@
 
 I’m <a href="https://github.com/Baldr-Dev">Baldr</a> a Dutch guy with a passion for gaming and programming.
 
-• 💬 Ask me about anything, I am happy to help;<br>
-• 📫 How to reach me: [Discord](https://discord.gg/PcbyHDZNZE);<br>
-• 🛒 My own hosting: [Valix Hosting](https://discord.gg/PcbyHDZNZE);<br>
+• 💬 Ask me about anything, I am happy to help.<br>
+• 📫 How to reach me: [Discord](https://discord.gg/PcbyHDZNZE).<br>
+• 🛒 My own hosting: [Valix Hosting](https://discord.gg/PcbyHDZNZE).<br>
 
 **Languages:**  
 
