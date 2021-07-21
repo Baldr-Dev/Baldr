@@ -5,7 +5,7 @@ I’m <a href="https://github.com/Baldr-Dev">Baldr</a> a Dutch guy with a passio
 
 • 💬 Ask me about anything, I am happy to help.<br>
 • 📫 How to reach me: [Discord](https://discord.gg/PcbyHDZNZE).<br>
-• 🛒 My own hosting: [Valix Hosting](https://discord.gg/PcbyHDZNZE).<br>
+• 🛒 My own hosting: [Valix Hosting](http://valixhosting.com/).<br>
 
 **Languages:**  
 
