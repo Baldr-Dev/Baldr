@@ -5,7 +5,7 @@ I’m <a href="https://github.com/ValixDev">Baldr</a> a Dutch guy with a passion
 
 • 💬 Ask me about anything, I am happy to help.<br>
 • 📫 How to reach me: [Discord](https://discord.com/users/875712716432629810/).<br>
-• 🛒 My own hosting: [ValixApps](SOON).<br>
+• 🛒 My own Discord Bot Shop: [ValixApps](SOON).<br>
 
 **Languages:**  
 
